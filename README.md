@@ -13,6 +13,6 @@ Mais surtout, je réalise des projets personnels sur des sujets qui me passionne
 Sentez-vous libres de découvrir l'ensemble de mes projets et les codes associés :sunglasses:.
 
 ## Compétences
-*:computer: Pyhton, SQL, Streamlit
-*:bar_chart: PowerBI, Tableau
-*:office: Suite office
+* :computer: Pyhton, SQL, Streamlit
+* :bar_chart: PowerBI, Tableau
+* :office: Suite office
