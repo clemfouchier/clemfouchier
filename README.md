@@ -1,5 +1,7 @@
 # Bonjour et bienvenue ✨
 
+<img src="https://github.com/clemfouchier/clemfouchier/blob/main/profil-github.png">
+
 Après 5 ans à réaliser des études quantitatives, parfois qualitatives, pour une diversité des clients sur des problématiques marketing, j'ai choisi de donner un nouvel élan dans ma carrière en apprenant le métier de Data Analyst lors d'un Bootcamp chez DataScientest (certification Mines ParisTech).
 
 Après la fin de la formation, mi-avril, j'ai voyagé un mois en train en Europe Centrale (ma photo de profil est à Vienne :relaxed:) et en Italie du Nord. Depuis, je suis à la recherche de mon premier poste en tant que Data Analyst.
